@@ -1,6 +1,6 @@
 # Hi, I am Lukas Schirren
 ## About Me
-I am an MSc Sustainable Energy Futures at Imperial College London. Currently, I am 24 years old and live in London, UK. My focus is on data analysis on power markets and data visualisation of energy topics. 
+I am an MSc Sustainable Energy Futures at Imperial College London. Currently, I am 24 years old and live in London, UK. My focus is on data analysis of power markert or general energy topics. 
 
 On my GitHub, you will find a collection of projects I have worked on, reference code from classes I have taken or developed myself.
 
