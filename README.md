@@ -1,4 +1,4 @@
-# Hi, I am Lukas Schirren | Research Associate @ Imperial
+Lukas Schirren | Research Associate @ Imperial
 
 
 
