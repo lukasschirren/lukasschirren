@@ -4,10 +4,10 @@
   Advancing and applying power system models like PyPSA to diverse regions and use cases, to simulate and optimise complex energy systems under uncertainty.
 
 - **Decarbonisation Strategies:**  
-  Investigating the role of renewable energy sources, including green hydrogen and hydropower, in achieving low-carbon energy systems, with applications in both high-risk and low- and low-income countries.
+  Investigating the integration of renewables, hydropower, and green hydrogen to support low-carbon transitions, with attention to challenges in both high-risk and low-income settings.
 
 - **Machine Learning for Uncertainty & Risk Quantification:**  
-  Creating and integrating ML modules—such as Bayesian neural networks, unsupervised anomaly detection, and reinforcement learning—into energy system models to dynamically adjust model parameters in response to evolving risks (e.g., war-induced infrastructure damage).
+  Exploring ML applications for improving energy models, including estimating hydropower parameters from limited data and enhancing data preprocessing to support robust simulations and uncertainty analysis.
   
 
 ## Skills
